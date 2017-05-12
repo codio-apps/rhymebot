@@ -1,3 +1,6 @@
+/* jshint node: true, devel: true */
+'use strict';
+
 const
   bodyParser = require('body-parser'),
   config = require('config'),
