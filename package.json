@@ -1,7 +1,7 @@
 {
-  "name": "rhymebot",
+  "name": "iam-test",
   "version": "1.0.0",
-  "description": "You feel the rhythm, we feel the rhyme.",
+  "description": "Capture a moment, make a memory.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/codio-apps/rhymebot.git"
   },
-  "author": "codio-apps",
+  "author": "ajstevens",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codio-apps/rhymebot/issues"
+    "url": "https://github.com/codio/rhymebot/issues"
   },
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -25,6 +25,6 @@
     "mongojs": "^2.4.0",
     "request": "^2.72.0"
   },
-  "homepage": "https://github.com/codio-apps/rhymebot#readme",
+  "homepage": "https://github.com/codio/rhymebot#readme",
   "devDependencies": {}
 }
